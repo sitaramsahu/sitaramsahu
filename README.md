@@ -69,6 +69,12 @@ I am a passionate Software developer with a keen interest in web development, op
 
 ---
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=rajguptaH&theme=discord&no-frame=true&no-bg=false&margin-w=3)
+
+---
+
 ## GitHub Stats
 
 ![Sitaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitaramsahu&show_icons=true&theme=radical)
