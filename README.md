@@ -46,7 +46,7 @@ I am a passionate Software developer with a keen interest in web development, op
 - **Databases**: MySQL, SQL Server.
 - **Tools**: Git, VS Code, Microsoft Visual Studio.
 
----
+<!-- ---
 
 ### 🛠️ Technologies & Tools
 
@@ -67,7 +67,7 @@ I am a passionate Software developer with a keen interest in web development, op
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-<!-- ---
+---
 
 ### 🏆 GitHub Trophies
 
