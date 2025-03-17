@@ -24,7 +24,7 @@
 
 I am a passionate Software developer with a keen interest in web development, open-source contributions, and continuous learning. I enjoy exploring new technologies and applying them to solve real-world problems.
 
-- 👨‍💻 I’m a **React Front-End Developer** with 2+ years of experience building scalable web applications.
+- 👨‍💻 I’m a **React Front-End Developer** with 3+ years of experience building scalable web applications.
 - 🌱 I’m currently learning advanced **React** (JavaScript frameworks) and cloud technologies.
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about anything related to JavaScript.
