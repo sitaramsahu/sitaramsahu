@@ -100,4 +100,4 @@ I'm always excited to collaborate on interesting projects. If you're working on 
 </p>
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sita Ram Sahu" /> </p>
-<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
+<!-- <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif"> -->
