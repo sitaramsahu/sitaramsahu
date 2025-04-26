@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://github.com/sitaramsahu">Sita Ram Sahu</a></h1>
-<p align="center">
+<!-- <p align="center">
   🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
-</p>
+</p> -->
 
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
