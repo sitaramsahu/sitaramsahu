@@ -82,13 +82,22 @@ I am a passionate Software developer with a keen interest in web development, op
 
 <!-- ## Connect with Me -->
 <p align="center">
-<a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sitaramsahu" height="30" width="40" /></a>
-<a href="https://instagram.com/sitaramsahurajnagar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sitaramsahurajnagar" height="30" width="40" /></a>
-<a href="https://x.com/sitaramsahu_cpp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sitaramsahu" height="30" width="40" /></a>
-<a href="mailto:sitaramsahurajnagar@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sitaramsahurajnagar@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin: 0 10px;" />
+  </a>
+  <a href="https://instagram.com/sitaramsahurajnagar/" target="_blank" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin: 0 10px;" />
+  </a>
+  <a href="https://x.com/sitaramsahu_cpp" target="_blank" title="Twitter/X">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" height="30" width="30" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:sitaramsahurajnagar@example.com" target="_blank" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin: 0 10px;" />
+  </a>
 </p>
 
----
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
-<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
+
+## <!-- <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif"> -->
