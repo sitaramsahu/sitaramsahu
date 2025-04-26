@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
+<!-- ---
 <h2 align="center">Hi, I'm </h2>
 <h1 align="center">Sita Ram Sahu! </h1>
 
@@ -18,7 +19,21 @@
   🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
 </p>
 
----
+--- -->
+
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/sitaramsahu">Sita Ram Sahu</a></h1>
+
+<p align="center">
+  <a href="mailto:sitaramsahurajnagar@gmail.com">📧 Contact Me</a> • 
+  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sita Ram Sahu" height="30" width="40" /> LinkedIn</a> • 
+  
+  <a href="https://instagram.com/sitaramsahurajnagar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Sita Ram Sahu" height="30" width="40" /> Instagram</a>• 
+  <a href="https://github.com/sitaramsahu/README_Files">🐙 GitHub</a>• 
+  <a href="https://github.com/sitaramsahu/">🔗 Portfolio</a>
+</p>
+
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 ## About Me
 
