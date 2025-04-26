@@ -83,16 +83,16 @@ I am a passionate Software developer with a keen interest in web development, op
 <!-- ## Connect with Me -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin: 0 10px; fill: #0A66C2;" />
   </a>
   <a href="https://instagram.com/sitaramsahurajnagar/" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin: 0 10px; fill: #E4405F;" />
   </a>
   <a href="https://x.com/sitaramsahu_cpp" target="_blank" title="Twitter/X">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" height="30" width="30" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" height="30" width="30" style="margin: 0 10px; fill: #000000;" />
   </a>
-  <a href="mailto:sitaramsahurajnagar@example.com" target="_blank" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin: 0 10px;" />
+  <a href="mailto:sitaramsahurajnagar@gmail.com" target="_blank" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin: 0 10px; fill: #D14836;" />
   </a>
 </p>
 
