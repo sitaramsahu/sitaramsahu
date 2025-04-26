@@ -15,8 +15,6 @@ I am a passionate Software developer with a keen interest in web development, op
 - 💬 Ask me about anything related to JavaScript.
 - 🎯 An entrepreneur driven by creating impactful web solutions.
 
-<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
-
 <!-- ### 🔗 Connect with Me
 
 - **Email:** [sitaramsahurajnagar@gmail.com](mailto:sitaramsahurajnagar@gmail.com)
@@ -91,3 +89,4 @@ I am a passionate Software developer with a keen interest in web development, op
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
