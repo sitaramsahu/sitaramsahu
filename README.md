@@ -1,41 +1,8 @@
-<!--
-# Hi there, I'm Sitaram Sahu 👋
-**sitaramsahu/sitaramsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ---
-<h2 align="center">Hi, I'm </h2>
-<h1 align="center">Sita Ram Sahu! </h1>
-
-<p align="center">
-  🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
-</p>
-
---- -->
-
 <h1 align="center">👋 Hey there, I'm <a href="https://github.com/sitaramsahu">Sita Ram Sahu</a></h1>
-
-<p align="center">
-  <a href="mailto:sitaramsahurajnagar@gmail.com">📧 Contact Me</a> • 
-  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/">🔗 LinkedIn</a> • 
-  
-  <a href="https://instagram.com/sitaramsahurajnagar">🔗 Instagram</a>
-  <!-- <a href="https://github.com/sitaramsahu/README_Files">🐙 GitHub</a>• 
-  <a href="https://github.com/sitaramsahu/">🔗 Portfolio</a> -->
-</p>
 <p align="center">
   🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
 </p>
 
-<!-- <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif"> -->
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 ## 💫 About Me
@@ -47,6 +14,8 @@ I am a passionate Software developer with a keen interest in web development, op
 - 👯 I’m looking to collaborate on open-source projects related to web development.
 - 💬 Ask me about anything related to JavaScript.
 - 🎯 An entrepreneur driven by creating impactful web solutions.
+
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 
 ### 🔗 Connect with Me
 
