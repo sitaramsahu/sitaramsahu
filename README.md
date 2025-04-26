@@ -1,17 +1,18 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://github.com/sitaramsahu">Sita Ram Sahu</a></h1>
-<!-- <p align="center">
-  🌟 Aspiring Full Stack Developer | 💻 React (JavaScript Framework) | 🚀 Entrepreneur
-</p> -->
-
-<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
-
-## 💫 About Me
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=D26151&background=FFF1EF00&random=false&width=435&lines=Hello+Floks...;I+am+a+Full+Stack+Devloper" alt="Typing SVG" />
+</a>
 
 Hello stranger! I'm a passionate React Front-End Developer building scalable web apps. I love exploring new technologies, contributing to open source, and solving real-world problems. Always open to collaborating on impactful web projects! Excited to grow as a developer and contribute meaningfully to a dynamic tech company.
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting!
 
----
+<picture>
+ <img margin-left=500px src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width = 900px>
+ </picture>
+ </div>
+ <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 <!--
 I am a passionate Software developer with a keen interest in web development, open-source contributions, and continuous learning. I enjoy exploring new technologies and applying them to solve real-world problems.
