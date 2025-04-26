@@ -80,24 +80,18 @@ I am a passionate Software developer with a keen interest in web development, op
 
 --- -->
 
-<!-- ## Connect with Me -->
+### 🚀 Let's Collaborate!
+
+I'm always excited to collaborate on interesting projects. If you're working on something exciting or have any questions, feel free to drop me a message!
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin: 0 10px; fill: #0A66C2;" />
-  </a>
-  <a href="https://instagram.com/sitaramsahurajnagar/" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin: 0 10px; fill: #E4405F;" />
-  </a>
-  <a href="https://x.com/sitaramsahu_cpp" target="_blank" title="Twitter/X">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" height="30" width="30" style="margin: 0 10px; fill: #000000;" />
-  </a>
-  <a href="mailto:sitaramsahurajnagar@gmail.com" target="_blank" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin: 0 10px; fill: #D14836;" />
-  </a>
+  <a href="mailto:sitaramsahurajnagar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sitaramsahurajnagar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sita-ram-sahu-bca/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sita%20Ram%20Sahu-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sitaramsahu">
+  <img src="https://img.shields.io/badge/GitHub-sitaramsahu-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
 </p>
-
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
-
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
-
-## <!-- <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif"> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sita Ram Sahu" /> </p>
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
