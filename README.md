@@ -99,7 +99,7 @@ I'm always excited to collaborate on interesting projects. If you're working on 
   <img src="https://img.shields.io/badge/GitHub-sitaramsahu-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
 </p>
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sita Ram Sahu" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sita Ram Sahu" /> </p> -->
 <!-- <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif"> -->
 
 ![alt text](github-snake-srs.svg)
