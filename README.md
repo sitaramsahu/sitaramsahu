@@ -105,6 +105,7 @@ I am a passionate Software developer with a keen interest in web development, op
 
 I'm always excited to collaborate on interesting projects. If you're working on something exciting or have any questions, feel free to drop me a message!
 
+
 <p align="center">
   <a href="mailto:sitaramsahurajnagar@gmail.com">
   <img src="https://img.shields.io/badge/Email-sitaramsahurajnagar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -112,6 +113,7 @@ I'm always excited to collaborate on interesting projects. If you're working on 
   <img src="https://img.shields.io/badge/LinkedIn-Sita%20Ram%20Sahu-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/sitaramsahu">
   <img src="https://img.shields.io/badge/GitHub-sitaramsahu-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+ 
 </p>
 <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sitaramsahu&label=Profile%20views&color=0e75b6&style=flat" alt="Sita Ram Sahu" /> </p> -->
@@ -119,6 +121,3 @@ I'm always excited to collaborate on interesting projects. If you're working on 
 
 ![alt text](github-snake-srs.svg)
 
-
- 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sita-ram-sahu" target="_blank">Follow on LinkedIn</a>
